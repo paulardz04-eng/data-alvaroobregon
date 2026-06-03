@@ -1,0 +1,1059 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "San Ángel",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.19,
+              19.348
+            ],
+            [
+              -99.178,
+              19.348
+            ],
+            [
+              -99.178,
+              19.36
+            ],
+            [
+              -99.19,
+              19.36
+            ],
+            [
+              -99.19,
+              19.348
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Tlacopac",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.196,
+              19.362
+            ],
+            [
+              -99.184,
+              19.362
+            ],
+            [
+              -99.184,
+              19.374
+            ],
+            [
+              -99.196,
+              19.374
+            ],
+            [
+              -99.196,
+              19.362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Lomas de Plateros",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.223,
+              19.358999999999998
+            ],
+            [
+              -99.211,
+              19.358999999999998
+            ],
+            [
+              -99.211,
+              19.371
+            ],
+            [
+              -99.223,
+              19.371
+            ],
+            [
+              -99.223,
+              19.358999999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Olivar del Conde 1ra",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.219,
+              19.366
+            ],
+            [
+              -99.207,
+              19.366
+            ],
+            [
+              -99.207,
+              19.378
+            ],
+            [
+              -99.219,
+              19.378
+            ],
+            [
+              -99.219,
+              19.366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Olivar del Conde 2da",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.216,
+              19.364
+            ],
+            [
+              -99.204,
+              19.364
+            ],
+            [
+              -99.204,
+              19.376
+            ],
+            [
+              -99.216,
+              19.376
+            ],
+            [
+              -99.216,
+              19.364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Santa Fe",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.259,
+              19.357
+            ],
+            [
+              -99.247,
+              19.357
+            ],
+            [
+              -99.247,
+              19.369
+            ],
+            [
+              -99.259,
+              19.369
+            ],
+            [
+              -99.259,
+              19.357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Mixcoac",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.204,
+              19.374
+            ],
+            [
+              -99.192,
+              19.374
+            ],
+            [
+              -99.192,
+              19.386
+            ],
+            [
+              -99.204,
+              19.386
+            ],
+            [
+              -99.204,
+              19.374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Pedregal de San Ángel",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.202,
+              19.331
+            ],
+            [
+              -99.19,
+              19.331
+            ],
+            [
+              -99.19,
+              19.343
+            ],
+            [
+              -99.202,
+              19.343
+            ],
+            [
+              -99.202,
+              19.331
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Axotla",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.183,
+              19.342
+            ],
+            [
+              -99.171,
+              19.342
+            ],
+            [
+              -99.171,
+              19.354
+            ],
+            [
+              -99.183,
+              19.354
+            ],
+            [
+              -99.183,
+              19.342
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Santa Rosa Xochiac",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.271,
+              19.305
+            ],
+            [
+              -99.259,
+              19.305
+            ],
+            [
+              -99.259,
+              19.317
+            ],
+            [
+              -99.271,
+              19.317
+            ],
+            [
+              -99.271,
+              19.305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Daniel Garza",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.194,
+              19.386
+            ],
+            [
+              -99.182,
+              19.386
+            ],
+            [
+              -99.182,
+              19.398
+            ],
+            [
+              -99.194,
+              19.398
+            ],
+            [
+              -99.194,
+              19.386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Molino de Rosas",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.2,
+              19.382
+            ],
+            [
+              -99.188,
+              19.382
+            ],
+            [
+              -99.188,
+              19.394000000000002
+            ],
+            [
+              -99.2,
+              19.394000000000002
+            ],
+            [
+              -99.2,
+              19.382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Guadalupe Inn",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.186,
+              19.364
+            ],
+            [
+              -99.174,
+              19.364
+            ],
+            [
+              -99.174,
+              19.376
+            ],
+            [
+              -99.186,
+              19.376
+            ],
+            [
+              -99.186,
+              19.364
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Florida",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.178,
+              19.374
+            ],
+            [
+              -99.166,
+              19.374
+            ],
+            [
+              -99.166,
+              19.386
+            ],
+            [
+              -99.178,
+              19.386
+            ],
+            [
+              -99.178,
+              19.374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "San Pedro de los Pinos",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.191,
+              19.379
+            ],
+            [
+              -99.179,
+              19.379
+            ],
+            [
+              -99.179,
+              19.391000000000002
+            ],
+            [
+              -99.191,
+              19.391000000000002
+            ],
+            [
+              -99.191,
+              19.379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Espartaco",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.175,
+              19.355999999999998
+            ],
+            [
+              -99.163,
+              19.355999999999998
+            ],
+            [
+              -99.163,
+              19.368
+            ],
+            [
+              -99.175,
+              19.368
+            ],
+            [
+              -99.175,
+              19.355999999999998
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Héroes de Padierna",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.241,
+              19.289
+            ],
+            [
+              -99.229,
+              19.289
+            ],
+            [
+              -99.229,
+              19.301000000000002
+            ],
+            [
+              -99.241,
+              19.301000000000002
+            ],
+            [
+              -99.241,
+              19.289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Lomas de Tarango",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.25,
+              19.322
+            ],
+            [
+              -99.238,
+              19.322
+            ],
+            [
+              -99.238,
+              19.334
+            ],
+            [
+              -99.25,
+              19.334
+            ],
+            [
+              -99.25,
+              19.322
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Lomas de Becerra",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.231,
+              19.352
+            ],
+            [
+              -99.219,
+              19.352
+            ],
+            [
+              -99.219,
+              19.364
+            ],
+            [
+              -99.231,
+              19.364
+            ],
+            [
+              -99.231,
+              19.352
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Las Águilas",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.234,
+              19.319
+            ],
+            [
+              -99.222,
+              19.319
+            ],
+            [
+              -99.222,
+              19.331
+            ],
+            [
+              -99.234,
+              19.331
+            ],
+            [
+              -99.234,
+              19.319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Jardines del Pedregal",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.211,
+              19.319
+            ],
+            [
+              -99.199,
+              19.319
+            ],
+            [
+              -99.199,
+              19.331
+            ],
+            [
+              -99.211,
+              19.331
+            ],
+            [
+              -99.211,
+              19.319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "San Jerónimo Lídice",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.224,
+              19.314
+            ],
+            [
+              -99.212,
+              19.314
+            ],
+            [
+              -99.212,
+              19.326
+            ],
+            [
+              -99.224,
+              19.326
+            ],
+            [
+              -99.224,
+              19.314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "San Jerónimo Aculco",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.228,
+              19.309
+            ],
+            [
+              -99.216,
+              19.309
+            ],
+            [
+              -99.216,
+              19.321
+            ],
+            [
+              -99.228,
+              19.321
+            ],
+            [
+              -99.228,
+              19.309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Altavista",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.194,
+              19.343
+            ],
+            [
+              -99.182,
+              19.343
+            ],
+            [
+              -99.182,
+              19.355
+            ],
+            [
+              -99.194,
+              19.355
+            ],
+            [
+              -99.194,
+              19.343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Campestre Churubusco",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.176,
+              19.349
+            ],
+            [
+              -99.164,
+              19.349
+            ],
+            [
+              -99.164,
+              19.361
+            ],
+            [
+              -99.176,
+              19.361
+            ],
+            [
+              -99.176,
+              19.349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Los Alpes",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.208,
+              19.334
+            ],
+            [
+              -99.196,
+              19.334
+            ],
+            [
+              -99.196,
+              19.346
+            ],
+            [
+              -99.208,
+              19.346
+            ],
+            [
+              -99.208,
+              19.334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "San Nicolás Totolapan",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.261,
+              19.284
+            ],
+            [
+              -99.249,
+              19.284
+            ],
+            [
+              -99.249,
+              19.296
+            ],
+            [
+              -99.261,
+              19.296
+            ],
+            [
+              -99.261,
+              19.284
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "La Malinche",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.236,
+              19.336
+            ],
+            [
+              -99.224,
+              19.336
+            ],
+            [
+              -99.224,
+              19.348
+            ],
+            [
+              -99.236,
+              19.348
+            ],
+            [
+              -99.236,
+              19.336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "Lomas de Axomiatla",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.256,
+              19.329
+            ],
+            [
+              -99.244,
+              19.329
+            ],
+            [
+              -99.244,
+              19.341
+            ],
+            [
+              -99.256,
+              19.341
+            ],
+            [
+              -99.256,
+              19.329
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "colonia": "San Bartolo Ameyalco",
+        "alcaldia": "ÁLVARO OBREGÓN",
+        "cve_mun": "010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.276,
+              19.299
+            ],
+            [
+              -99.264,
+              19.299
+            ],
+            [
+              -99.264,
+              19.311
+            ],
+            [
+              -99.276,
+              19.311
+            ],
+            [
+              -99.276,
+              19.299
+            ]
+          ]
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "fuente": "datos.cdmx.gob.mx",
+    "alcaldia": "Álvaro Obregón"
+  }
+}

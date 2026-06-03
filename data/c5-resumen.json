@@ -1,0 +1,23 @@
+{
+  "total": 34333,
+  "periodo": "2022-2024",
+  "por_tipo": {
+    "Accidente": 31509,
+    "Lesionado": 2735,
+    "Cadáver": 56,
+    "Detención ciudadana": 17,
+    "Mi Calle": 11,
+    "Sismo": 7,
+    "Mi Taxi": 2
+  },
+  "por_dia": {
+    "Sábado": 5509,
+    "Viernes": 5348,
+    "Domingo": 4935,
+    "Jueves": 4786,
+    "Martes": 4738,
+    "Miércoles": 4615,
+    "Lunes": 4406
+  },
+  "actualizado": "2024"
+}
